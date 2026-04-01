@@ -1,0 +1,44 @@
+body{
+font-family: Arial;
+background:#f4f6f9;
+text-align:center;
+}
+
+.container{
+display:flex;
+justify-content:center;
+gap:50px;
+margin-top:30px;
+}
+
+.form-box{
+background:white;
+padding:20px;
+border-radius:10px;
+box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+
+input,select{
+display:block;
+margin:10px auto;
+padding:10px;
+width:200px;
+}
+
+button{
+padding:10px 20px;
+background:#007bff;
+color:white;
+border:none;
+cursor:pointer;
+}
+
+table{
+border-collapse:collapse;
+margin-top:20px;
+}
+
+th,td{
+border:1px solid #ccc;
+padding:10px;
+}
