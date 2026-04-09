@@ -1,2 +1,4 @@
 # Budget_planner
+
+![image alt](https://github.com/KislayaSrivastava07/Budget_planner/blob/db51aae93dd7f65819ad288116cca0b32692e584/images/Screenshot%202026-04-09%20235933.png)
 # Budget Planner is a lightweight and intuitive personal finance management application designed to help users track income, monitor expenses, and maintain financial discipline. Built using modern web technologies, the application provides real-time updates of balance and spending through dynamic user interactions and efficient state handling. It automates the process of recording and categorizing transactions, enabling users to gain clear insights into their financial habits. Additionally, the system leverages browser-based storage to persist data, ensuring a seamless and responsive user experience without requiring backend infrastructure.
